@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - torch
   - pip
   - pip:
     - pillow

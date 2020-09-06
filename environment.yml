@@ -4,10 +4,10 @@ channels:
 dependencies:
   - python
   - numpy
-  - torch
   - pip
   - pip:
     - pillow
+    - torch
     - albumentations
     - numpy
     - matplotlib

@@ -3,10 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - opencv-python
   - matplotlib
-  - torch
   - torchvision
-  - segmentation_models_pytorch
   - scikit-learn
   - albumentations

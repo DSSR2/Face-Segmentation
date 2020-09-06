@@ -2,7 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python3
+  - python
   - numpy
   - pip
   - pip:

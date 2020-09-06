@@ -5,8 +5,8 @@ dependencies:
   - python
   - numpy
   - pip
-  - opencv
   - pip:
+    - pillow
     - torch
     - torchvision
     - albumentations

@@ -7,8 +7,6 @@ dependencies:
   - pip
   - pip:
     - pillow
-    - torch
-    - torchvision
     - albumentations
     - numpy
     - matplotlib

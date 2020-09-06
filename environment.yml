@@ -2,8 +2,15 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - python3
   - numpy
-  - matplotlib
-  - torchvision
-  - scikit-learn
-  - albumentations
+  - pip
+  - pip:
+    - opencv-python
+    - torch
+    - torchvision
+    - albumentations
+    - numpy
+    - matplotlib
+    - segmentation_models_pytorch
+    - scikit-learn

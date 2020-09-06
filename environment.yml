@@ -10,5 +10,4 @@ dependencies:
     - albumentations
     - numpy
     - matplotlib
-    - segmentation_models_pytorch
     - scikit-learn
